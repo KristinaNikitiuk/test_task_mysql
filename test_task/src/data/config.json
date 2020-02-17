@@ -1,0 +1,7 @@
+{
+    "user": "root",
+    "password": "kristina11",
+    "user_path": "/workspace/test_task/src/data/user.csv",
+    "city_path": "/workspace/test_task/src/data/city.csv",
+    "country_path": "/workspace/test_task/src/data/country.csv"
+}

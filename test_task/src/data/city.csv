@@ -1,0 +1,11 @@
+id,name,country_id
+1,'Marseille',1
+2,'Nice',1
+3,'Paris',1
+4,'Florence',2
+5,'Alberobello',2
+6,'Athens',3
+7,'Thira',3
+8,'Madrid',4
+9,'Jerusalem',5
+10,'Tel-Aviv',5
